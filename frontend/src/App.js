@@ -52,8 +52,8 @@ function App() {
       <h1 className='h1'>Task manager</h1>
       <div>
         <form className='form' onSubmit={createTodo}>
-          <input className='input' type='text' value={task} onChange={(e) => setTask(e.target.value)}/>
-          <button type='submit'>Submit</button>
+          <input className='input' type='text' value={task} onChange={(e) => setTask(e.target.value)} placeholder='Enter any todos here...'/>
+          <button type='submit' className='submit-btn'>Submit</button>
         </form>
       </div>
       <div>
@@ -62,7 +62,7 @@ function App() {
           <div className='todos'>
             <p>{todo.task}</p>
             <p>{todo.status ? "completed" : "pending"}</p>
-            <button onClick={() => deleteTodo(todo._id)}>Delete</button>
+            <button onClick={() => deleteTodo(todo._id)} className='dlt-btn'>Delete</button>
           </div>
           ))
         ): (
