@@ -40,6 +40,7 @@ input[type="text"] {
   border: 1px solid #ccc;
   border-radius: 4px 0 0 4px;
   outline: none;
+  background-color: burlywood;
 }
 
 h1 {
