@@ -48,17 +48,14 @@ For providing a platform to learn, innovate, and grow together! 🙏
 ## 📸 Event Gallery
 
 <!-- Banner Image -->
-![Yarl Insight 2.0 Banner](BANNER_IMAGE_LINK)
+![Yarl Insight 2.0 Banner](assets/1.jpg)
 
 <!-- Organized Team Image (e.g., IEEE Student Branch UOJ) -->
-![Organized by IEEE Student Branch UOJ](ORGANIZER_IMAGE_LINK)
-
-<!-- Sponsored Team Image (e.g., Cognitx, Microsoft, or others) -->
-![Sponsored by Cognitx](SPONSOR_IMAGE_LINK)
+![Organized by IEEE Student Branch UOJ and Sponsored by Cognitx](assets/2.jpg)
 
 <!-- Day-wise Agendas -->
-![Day 1 Agenda](IMAGE_FROM_DAY_1)
-![Day 2 Agenda](IMAGE_FROM_DAY_2)
+![Day 1 Agenda](assets/6.jpg)
+![Day 2 Agenda](assets/7.jpg)
 
 ---
 
