@@ -1,5 +1,11 @@
 # 📝 MERN ToDo Application
 
+<!-- Banner Image -->
+![Yarl Insight 2.0 Banner](assets/1.jpg)
+
+<!-- Organized Team Image (e.g., IEEE Student Branch UOJ) -->
+![Organized by IEEE Student Branch UOJ and Sponsored by Cognitx](assets/2.jpg)
+
 A full-stack **To Do app** built with the MERN stack and deployed on AWS EC2—developed as part of the "YarlInsight 2.0" summer school at the University of Jaffna. This project is a hands-on exploration of modern web development, cloud infrastructure, and DevOps best practices.
 
 ---
@@ -46,12 +52,6 @@ For providing a platform to learn, innovate, and grow together! 🙏
 ---
 
 ## 📸 Event Gallery
-
-<!-- Banner Image -->
-![Yarl Insight 2.0 Banner](assets/1.jpg)
-
-<!-- Organized Team Image (e.g., IEEE Student Branch UOJ) -->
-![Organized by IEEE Student Branch UOJ and Sponsored by Cognitx](assets/2.jpg)
 
 <!-- Day-wise Agendas -->
 ![Day 1 Agenda](assets/6.jpg)
